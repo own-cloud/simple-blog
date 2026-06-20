@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Quartz
+docs/
+node_modules/
+public/
+.tmp/
+.DS_Store
+quartz/.quartz-cache/
